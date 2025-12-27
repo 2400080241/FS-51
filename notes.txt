@@ -2,3 +2,5 @@ git status
 git add main.java notes.txt
 git commit -m "Initial commit with main.java and notes.txt"
 This project demonstrates basic Git version control operations.
+Feature-update branch: added new functionality description.
+
